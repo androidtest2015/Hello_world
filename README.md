@@ -4,7 +4,7 @@ I don't know what to do.
 So, I have an idea.
 Just write one code every day.
 Today is 20160720.
-I have <Head first java> beside my hand.
+I have "Head first java" beside my hand.
 So copy a code form this book.
 Use JvaAPI page 154.
 类是被包装在包中的，所以要用到类ArrayList时应该这样写：
